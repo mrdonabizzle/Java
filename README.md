@@ -1,2 +1,1 @@
-# Java
-This folder includes projects I have made using Java.
+This repository contains projects I created using Java.
